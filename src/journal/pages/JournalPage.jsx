@@ -12,10 +12,10 @@ import { AddOutlined } from '@mui/icons-material'
       {/* <Typography>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, odit. Perferendis sunt fuga modi! Atque alias eius iure autem deserunt expedita ex, perferendis doloremque veniam inventore odio hic! Cum, dolorem!</Typography> */}
 
       {/* NothingSelected */}
-      {/* <NothingSelectedView /> */}
+      <NothingSelectedView />
 
       {/* NoteView */}      
-      <NoteView/>
+      {/* <NoteView/> */}
 
       <IconButton
         size='large'
